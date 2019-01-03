@@ -45,7 +45,7 @@ dan beck office sebagai admin untuk submit soal psikotest dan merivew user activ
 [Documentation for Beckend](beckend/README.md)
 
 ## Documentation for Frontend 
-[Documentation for Forntend](beckend/README.md)
+[Documentation for Forntend](frontend/README.md)
 
 ## License
 
