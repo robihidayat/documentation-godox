@@ -32,7 +32,6 @@ dan beck office sebagai admin untuk submit soal psikotest dan merivew user activ
  golang - for beckend
  angular - for fontend
  heroku - for hosting
- 
 ```  
 
 ## Authors
