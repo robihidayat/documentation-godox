@@ -3,7 +3,6 @@ Technicals documentation Godox project
 
 ## MVP for User
 
- - [ ] Saya sebagai user akan melakukan register pengguna baru
  - [ ] Saya sebagai user akan melakukan signin
  - [ ] Saya sebagai user akan melakukan signup
  - [ ] Saya sebagai user akan melihat dashboard
