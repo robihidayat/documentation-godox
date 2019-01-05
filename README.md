@@ -1,8 +1,8 @@
 # Documentation Project Godox
 
 ## Project Description
-Project ini dibuat untuk membuat test psikologi kepada penguna, user bisa test psikologi dan sharing hasil pengalaman kepada pengguna social media. 
-dan beck office sebagai admin untuk submit soal psikotest dan merivew user activity.  
+Project ini dibuat untuk membuat test psikologi kepada penguna, user bisa test psikologi. 
+sebagai admin untuk submit soal psikotest dan merivew user activity.  
 
 ## MVP for Admin User
 
@@ -17,20 +17,20 @@ dan beck office sebagai admin untuk submit soal psikotest dan merivew user activ
 ## Technologi requiement
 
 ```
- springboot - for beckend
+ springboot - for backend
  angular - for fontend
  heroku - for hosting
 ```  
 
 ## Authors
 
-* **Robi Hidayat** - *beckend* - [robihidayat](https://github.com/robihidayat)
+* **Robi Hidayat** - *backend* - [robihidayat](https://github.com/robihidayat)
 * **Aditya Renaldi** - *frontend* - [aditrenaldi8](https://github.com/aditrenaldi8)
 
 
 
 ## Documentation for Beckend
-[Documentation for Beckend](beckend/README.md)
+[Documentation for Backend](backend/README.md)
 
 ## Documentation for Frontend 
 [Documentation for Forntend](frontend/README.md)
