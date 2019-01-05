@@ -7,10 +7,9 @@ dan beck office sebagai admin untuk submit soal psikotest dan merivew user activ
 ## MVP for Admin User
 
  - [ ] Saya sebagai user admin akan melakukan signin.
- - [ ] Saya sebagai user admin akan melakukan signup.
  - [ ] Saya sebagai user admin akan melihat dashboard (kosongan dulu aja dashboardnya).
  - [ ] Saya sebagai user admin akan melakukan logout.
- - [ ] Saya sebagai user admin akan melakukan mengisi soal dan jawaban question dikategorikan per paket.
+ - [ ] Saya sebagai user admin akan mengisi soal dan jawaban question (dikategorikan per paket).
  - [ ] Saya sebagai user admin akan melakukan assesmenets kepada pengguna dan memilih packet soal yang sudah dibuat.
  - [ ] Saya sebagai user admin akan melihat hasil assesmenets pengguna setelah selesai melakukan test dan melihat grafik dari hasil. 
 
