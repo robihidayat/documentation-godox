@@ -14,6 +14,10 @@ sebagai admin untuk submit soal psikotest dan merivew user activity.
  - [ ] Saya sebagai user admin akan melihat hasil assesmenets pengguna setelah selesai melakukan test dan melihat grafik dari hasil. 
 
 
+## Flow Diagram 
+
+![images](asset/flow_godox.jpg)
+
 ## Technologi requiement
 
 ```
